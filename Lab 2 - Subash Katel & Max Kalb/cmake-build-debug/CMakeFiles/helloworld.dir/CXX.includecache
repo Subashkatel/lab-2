@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/client.cpp
+iostream
+-
+inherit2.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2.h
+partTimeEmployee.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/partTimeEmployee.h
+
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/implementation.cpp
+iostream
+-
+inherit2.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2.h
+partTimeEmployee.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/partTimeEmployee.h
+
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2.h
+string
+-
+
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2i.cpp
+iostream
+-
+string
+-
+inherit2.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2.h
+
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/partTimeEmployee.h
+inherit2.h
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/inherit2.h
+

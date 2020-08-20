@@ -1,0 +1,3 @@
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/cmake-build-debug/CMakeFiles/helloworld.dir
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/Lab 2 - Subash Katel & Max Kalb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
